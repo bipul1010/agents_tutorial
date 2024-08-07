@@ -1,0 +1,21 @@
+# Ignore dotenv files
+*.env
+env.txt
+
+# Ignore Python cache files
+*.pyc
+*__pycache__
+.pytest_cache
+
+# Ignore log files
+logs
+*.log
+
+#Ignore weight folders
+opus_books_weights/
+
+#Ignore any json files
+*.json
+
+#Ignore any wandb files
+wandb/
