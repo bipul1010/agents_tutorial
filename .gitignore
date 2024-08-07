@@ -19,3 +19,6 @@ opus_books_weights/
 
 #Ignore any wandb files
 wandb/
+
+#Ignore DS_Stor
+*.DS_Store
